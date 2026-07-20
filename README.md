@@ -21,8 +21,8 @@ This project was completed as part of the Mechanical Engineering track. The obje
 - GitHub
 
 ## Onshape Design
-🔗 [View the Onshape CAD Model](https://cad.onshape.com/documents/f0ca03d2935b2344d0392c2a/w/d7f159a3abc19aebc8833508/e/4c303bde411d6e420b190c73?renderMode=0&uiState=6a5bd55f5c6f284beb5b5f8d)
 
+[View the Onshape Design](https://cad.onshape.com/documents/f0ca03d2935b2344d0392c2a/w/d7f159a3abc19aebc8833508/e/4c303bde411d6e420b190c73?renderMode=0&uiState=6a5bd55f5c6f284beb5b5f8d)
 ## Repository Contents
 - `SpiderManLogo.stl` – 3D printable model.
 - Project screenshots.
